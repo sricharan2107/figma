@@ -1,0 +1,182 @@
+.background-purple {
+    background-color: #e0b0ff;
+    width: 100vw;
+}
+
+.colour-blue {
+    background-color: #e6e6fa;
+}
+
+.paragraph-iit {
+    border-radius: 5px;
+    background-color: #ffffff;
+    height: 50px;
+    width: 245px;
+    padding: 12px;
+    font-size: 15px;
+    color: purple;
+    font-weight: bold;
+    border-width: 0px;
+}
+
+.paragraph2 {
+    color: purple;
+    font-weight: 500;
+}
+
+.span-element {
+    color: purple;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.button-know-how {
+    color: #ffffff;
+    border-radius: 5px;
+    height: 30px;
+    width: 120px;
+    background-color: #7e1e9c;
+    border-width: 0px;
+}
+
+.button-hdiw {
+    border-radius: 5px;
+    color: purple;
+    font-weight: 700;
+    padding: 8px;
+    border-color: #660077;
+    background-color: #e0b0ff;
+}
+
+.button-explore-programs {
+    color: #ffffff;
+    border-radius: 5px;
+    padding: 8px;
+    background-color: purple;
+    border-width: 0px;
+    font-weight: 700;
+    width: 220px;
+}
+
+.background2 {
+    background-color: #e6e6fa;
+    width: 100vw;
+
+}
+
+.paragraph-brightenup {
+    color: purple;
+    font-weight: 700;
+}
+
+.paragraph-learn {
+    color: purple;
+}
+
+.know-about-td {
+    height: 200px;
+    width: 230px;
+    border-radius: 10px;
+}
+
+.background3 {
+    background-color: #800080;
+    width: 100vw;
+}
+
+.white-cards {
+    background-color: #ffffff;
+    height: 100px;
+    width: 150px;
+    border-radius: 10px;
+    margin: 10px;
+    padding-top: 10px;
+    text-align: center;
+    background-image: linear-gradient(#ffffff, #ba55d3);
+}
+
+.twenty-one {
+    color: purple;
+    font-weight: 900;
+}
+
+.courses {
+    color: purple;
+    line-height: normal;
+
+}
+
+.tutedude-receipe-of-success {
+    height: 100px;
+    width: 300px;
+    border-radius: 5px;
+}
+
+
+
+.footer-section-container {
+    background-color: #000000;
+}
+
+.footer-image {
+    height: 100px;
+    width: 100px;
+}
+
+.footer-section-mail-id {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+    line-height: 0.9;
+}
+
+.footer-section-address {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.fu-section {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.futwittwer-image {
+
+    font-size: 35px;
+}
+
+.icons-container {
+    height: 70px;
+    width: 70px;
+    border-radius: 50px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.background4 {
+    background-color: #dda0dd;
+    border-radius: 6px;
+}
+
+.pink-background {
+
+    border-radius: 10px;
+    line-height: 2.1;
+}
+
+.learn-at-your-own-pace {
+    color: purple;
+    font-weight: bolder;
+}
+
+.remaining {
+    color: purple;
+}
+
+.background5 {
+    background-color: #ba55d3;
+    border-radius: 6px;
+}
